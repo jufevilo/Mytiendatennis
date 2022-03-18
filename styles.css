@@ -1,0 +1,22 @@
+@media (max-width: 400px) {
+  .logo {
+    max-width: 180px;
+  }
+}
+
+body {
+  background-color: greenyellow !important;
+}
+
+.btn {
+  background-color: grey !important;
+  color: white;
+}
+
+.text-description {
+  font-size: 14px;
+}
+
+.footer-title {
+  color: black !important;
+}
